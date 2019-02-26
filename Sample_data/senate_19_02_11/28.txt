@@ -1,0 +1,904 @@
+
+[Pages S1170-S1174]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+
+
+
+                           TEXT OF AMENDMENTS
+
+  SA 171. Mr. CRAMER submitted an amendment intended to be proposed to 
+amendment SA 111 proposed by Ms. Murkowski (for herself and Mr. 
+Manchin) to the bill S. 47, to provide for the management of the 
+natural resources of the United States, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of tile V, insert the following:
+
+     SEC. 5___. CADASTRE OF FEDERAL REAL PROPERTY.
+
+       (a) Definitions.--In this section:
+       (1) Cadastre.--
+       (A) In general.--The term ``cadastre'' means an inventory 
+     of real property developed through collecting, storing, 
+     retrieving, or disseminating graphical or digital data 
+     depicting natural or man-made physical features, phenomena, 
+     or boundaries of the earth, and any information related to 
+     the data, including--
+       (i) surveys;
+       (ii) maps;
+       (iii) charts;
+       (iv) satellite and airborne remote sensing data;
+       (v) images; and
+       (vi) services, including services of an architectural or 
+     engineering nature performed by 1 or more professionals, such 
+     as--
+
+       (I) a surveyor;
+       (II) a photogrammetrist;
+       (III) a hydrographer;
+       (IV) a geodesist; and
+       (V) a cartographer.
+
+       (B) Inclusions.--The term ``cadastre'' includes--
+       (i) a reference frame consisting of a current geodetic 
+     network;
+       (ii) a series of current and accurate large-scale maps;
+       (iii) an existing cadastral boundary overlay delineating 
+     all cadastral parcels;
+       (iv) a system for indexing and identifying each cadastral 
+     parcel; and
+       (v) a series of land data files, each including the parcel 
+     identifier, which can be used to retrieve information and 
+     cross-reference between and among other existing data files 
+     that may contain information about the use, assets, and 
+     infrastructure of each parcel.
+       (2) Department.--The term ``Department'' means the 
+     Department of the Interior.
+       (3) Real property.--The term ``real property'' means real 
+     estate consisting of--
+       (A) land;
+       (B) buildings, crops, forests, or other resources still 
+     attached to or within the land;
+       (C) improvements or fixtures permanently attached to the 
+     land;
+       (D) any structure on the land; or
+       (E) any interest, benefit, right, or privilege in the 
+     property described in subparagraphs (A) through (D).
+       (b) Cadastre of Federal Real Property.--
+       (1) In general.--The Secretary shall develop and maintain a 
+     current and accurate multipurpose cadastre of Federal real 
+     property and any real property included under paragraph 
+     (2)(A) to support Federal land management activities on 
+     Federal real property, including--
+       (A) resource development and conservation;
+       (B) agricultural use;
+       (C) active forest management;
+       (D) environmental protection; and
+       (E) other use of the real property.
+       (2) Cost-sharing.--
+       (A) In general.--The Secretary may enter into cost-sharing 
+     agreements with States to include any non-Federal land in a 
+     State in the cadastre under paragraph (1).
+       (B) Cost share.--The Federal share of any cost-sharing 
+     agreement described in subparagraph (A) shall not exceed 50 
+     percent of the total cost to a State for the development of 
+     the cadastre of non-Federal land in the State.
+       (3) Consolidation and report.--Not later than 180 days 
+     after the date of enactment of this Act, the Secretary shall 
+     submit to the Committee on Energy and Natural Resources of 
+     the Senate and the Committee on Natural Resources of the 
+     House of Representatives a report describing--
+       (A) the existing real property inventories or any 
+     components of any cadastre of Federal real property currently 
+     authorized by law or maintained by the Department, 
+     including--
+       (i) the statutory authorization for each existing real 
+     property inventory or component of a cadastre; and
+       (ii) the amount expended by the Federal Government for each 
+     existing real property inventory or component of a cadastre 
+     in fiscal year 2017;
+       (B) the existing real property inventories or any 
+     components of any cadastre of Federal real property currently 
+     authorized by law or maintained by the Department that will 
+     be eliminated or consolidated into the multipurpose cadastre 
+     under paragraph (1);
+       (C)(i) the existing real property inventories or any 
+     components of any cadastre of Federal real property currently 
+     authorized by law or maintained by the Department that will 
+     not be eliminated or consolidated into the multipurpose 
+     cadastre under paragraph (1); and
+       (ii) a justification for not eliminating or consolidating 
+     an existing real property inventory or component of a 
+     cadastre described in clause (i) into the multipurpose 
+     cadastre under paragraph (1);
+       (D) the use of existing real property inventories or any 
+     components of any cadastre currently maintained by any unit 
+     of State or local government that can be used to identify 
+     Federal real property within that unit of government;
+       (E) the cost-savings that will be achieved by eliminating 
+     or consolidating duplicative or unneeded real property 
+     inventories or any components of any cadastre of Federal real 
+     property currently authorized by law or maintained by the 
+     Department that will become part of the multipurpose cadastre 
+     under paragraph (1);
+       (F) a plan for the implementation of this section, 
+     including a cost estimate and an assessment of the 
+     feasibility of using revenue from any transactional activity 
+     authorized by law to offset any costs of implementing this 
+     section;
+       (G) an assessment described in subparagraphs (A) through 
+     (E) with regard to each cadastre and inventory of Federal 
+     real property authorized, operated, or maintained by each 
+     other Federal agency, which shall be conducted in 
+     consultation with the Director of the Office of Management 
+     and Budget, the Administrator of the General Services 
+     Administration, and the Comptroller General of the United 
+     States; and
+       (H) recommendations for any legislation necessary to 
+     increase the cost-savings and enhance the effectiveness and 
+     efficiency of replacing, eliminating, or consolidating 
+     Federal real property inventories or any components of any 
+     cadastre of Federal real property currently authorized by law 
+     or maintained by the Department.
+       (4) Coordination.--
+       (A) In general.--In carrying out this section, the 
+     Secretary shall--
+       (i) participate (in accordance with section 216 of the E-
+     Government Act of 2002 (44 U.S.C. 3501 note; Public Law 107-
+     347)) in the establishment of such standards and common 
+     protocols as are necessary to ensure the interoperability of 
+     geospatial information pertaining to the cadastre under 
+     subsection (b)(1) for all users of the information;
+       (ii) coordinate with, seek assistance and cooperation of, 
+     and provide liaison to the Federal Geographic Data Committee 
+     pursuant to Office of Management and Budget Circular A-16 and 
+     Executive Order 12906 (43 U.S.C. 1457 note; relating to 
+     coordinating geographic data acquisition and access: the 
+     National Spatial Data Infrastructure) for the implementation 
+     of and compliance with such standards as may be applicable to 
+     the cadastre under subsection (b)(1);
+       (iii) integrate, or make the cadastre interoperable with, 
+     the Federal Real Property Profile established pursuant to 
+     Executive Order 13327 (40 U.S.C. 121 note; relating to 
+     Federal real property asset management);
+       (iv) to the maximum extent practicable, integrate with and 
+     leverage current cadastre activities of units of State and 
+     local government; and
+       (v) to the maximum extent practicable, use contracts with 
+     the private sector to provide such products and services as 
+     are necessary to develop the cadastre under subsection 
+     (b)(1).
+       (B) Contracts considered surveying and mapping.--
+       (i) In general.--A contract entered into under subparagraph 
+     (A)(v) shall be considered to be a contract for services of 
+     surveying and mapping (within the meaning of chapter 11 of 
+     title 40, United States Code).
+       (ii) Selection procedures.--A contract under subparagraph 
+     (A)(v) shall be entered into in accordance with the selection 
+     procedures in chapter 11 of title 40, United States Code.
+       (c) Transparency and Public Access.--The Secretary shall--
+       (1) make the cadastre under subsection (b)(1) publically 
+     available on the Internet in a graphically geo-enabled and 
+     searchable format;
+       (2) ensure that the inventory referred to in subsection (b) 
+     includes the identification of all land suitable for disposal 
+     in accordance with the Federal Land Policy and Management Act 
+     of 1976 (43 U.S.C. 1701 et seq.); and
+       (3) in consultation with the Secretary of Defense and the 
+     Secretary of Homeland Security, prevent the disclosure of any 
+     parcel or parcels of land, any buildings or facilities on the 
+     land, or any information related to the land, buildings, or 
+     facilities if that disclosure would impair or jeopardize the 
+     national security or homeland defense of the United States.
+
+[[Page S1171]]
+
+       (d) Effect.--Nothing in this section--
+       (1) creates any substantive or procedural right or benefit; 
+     or
+       (2) requires or authorizes--
+       (A) any new surveying or mapping of Federal real property;
+       (B) the evaluation of any parcel of land or other real 
+     property for potential management by a non-Federal entity;
+       (C) the disposal of any Federal real property; or
+       (D) any new appraisal or assessment of--
+       (i) the value of any parcel of Federal land or other real 
+     property; or
+       (ii) the cultural and archaeological resources on any 
+     parcel of Federal land or other real property.
+                                 ______
+                                 
+  SA 172. Mr. RUBIO (for himself and Mr. Scott of Florida) submitted an 
+amendment intended to be proposed to amendment SA 112 proposed by Ms. 
+Murkowski to the amendment SA 111 proposed by Ms. Murkowski (for 
+herself and Mr. Manchin) to the bill S. 47, to provide for the 
+management of the natural resources of the United States, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       On page 1, after line 8, add the following:
+
+     SEC. 2402A. JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM.
+
+       (a) In General.--Section 2(b) of the Strengthening Coastal 
+     Communities Act of 2018 (Public Law 115-358) is amended by 
+     adding at the end the following:
+       ``(36) The map entitled `Cape San Blas Unit P30/P30P (1 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.
+       ``(37) The map entitled `Cape San Blas Unit P30/P30P (2 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.''.
+       (b) Effect.--Section 7003 shall have no force or effect.
+                                 ______
+                                 
+  SA 173. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end, add the following:
+       The provisions in this Act shall go into effect 1 day after 
+     enactment.
+                                 ______
+                                 
+  SA 174. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       On page 1, line 1, strike ``1 day'' and insert ``2 days''.
+                                 ______
+                                 
+  SA 175. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end, add the following:
+       The provisions in this Act shall go into effect 3 days 
+     after enactment.
+                                 ______
+                                 
+  SA 176. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       On page 1, line 1, strike ``3'' and insert ``4''.
+                                 ______
+                                 
+  SA 177. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end, add the following:
+       The provisions in this Act shall go into effect 5 days 
+     after enactment.
+                                 ______
+                                 
+  SA 178. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       On page 1, line 1, strike ``5'' and insert ``6''.
+                                 ______
+                                 
+  SA 179. Mr. HEINRICH submitted an amendment intended to be proposed 
+by him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end of subtitle B of title I, add the following:
+
+     SEC. 11__. SAN JUAN COUNTY SETTLEMENT IMPLEMENTATION.
+
+       (a) Exchange of Coal Preference Right Lease Applications.--
+       (1) Definition of bidding right.--In this subsection, the 
+     term ``bidding right'' means an appropriate legal instrument 
+     or other written documentation, including an entry in an 
+     account managed by the Secretary, issued or created under 
+     subpart 3435 of title 43, Code of Federal Regulations, that 
+     may be used--
+       (A) in lieu of a monetary payment for 50 percent of a bonus 
+     bid for a coal lease sale under the Mineral Leasing Act (30 
+     U.S.C. 181 et seq.); or
+       (B) as a monetary credit against 50 percent of any rental 
+     or royalty payments due under any Federal coal lease.
+       (2) Use of bidding right.--
+       (A) In general.--If the Secretary retires a coal preference 
+     right lease application under the Mineral Leasing Act (30 
+     U.S.C. 181 et seq.) by issuing a bidding right in exchange 
+     for the relinquishment of the coal preference right lease 
+     application, the bidding right subsequently may be used in 
+     lieu of 50 percent of the amount owed for any monetary 
+     payment of--
+       (i) a bonus in a coal lease sale; or
+       (ii) rental or royalty under a Federal coal lease.
+       (B) Payment calculation.--
+       (i) In general.--The Secretary shall calculate a payment of 
+     amounts owed to a relevant State under section 35(a) of the 
+     Mineral Leasing Act (30 U.S.C. 191(a)) based on the combined 
+     value of the bidding rights and amounts received.
+       (ii) Amounts received.--Except as provided in this 
+     paragraph, for purposes of calculating the payment of amounts 
+     owed to a relevant State under clause (i) only, a bidding 
+     right shall be considered amounts received.
+       (C) Requirement.--The total number of bidding rights issued 
+     by the Secretary under subparagraph (A) before October 1, 
+     2029, shall not exceed the number of bidding rights that 
+     reflect a value equivalent to $67,000,000.
+       (3) Source of payments.--The Secretary shall make payments 
+     to the relevant State under paragraph (2) from monetary 
+     payments received by the Secretary when bidding rights are 
+     exercised under this section.
+       (4) Treatment of payments.--A payment to a State under this 
+     subsection shall be treated as a payment under section 35(a) 
+     of the Mineral Leasing Act (30 U.S.C. 191(a)).
+       (5) Transferability; limitation.--
+       (A) Transferability.--A bidding right issued for a coal 
+     preference right lease application under the Mineral Leasing 
+     Act (30 U.S.C. 181 et seq.) shall be fully transferable to 
+     any other person.
+       (B) Notification of secretary.--A person who transfers a 
+     bidding right shall notify the Secretary of the transfer by 
+     any method determined to be appropriate by the Secretary.
+       (C) Effective period.--
+       (i) In general.--A bidding right issued under the Mineral 
+     Leasing Act (30 U.S.C. 181 et seq.) shall terminate on the 
+     expiration of the 7-year period beginning on the date the 
+     bidding right is issued.
+       (ii) Tolling of period.--The 7-year period described in 
+     clause (i) shall be tolled during any period in which 
+     exercise of the bidding right is precluded by temporary 
+     injunctive relief granted under, or administrative, 
+     legislative, or judicial suspension of, the Federal coal 
+     leasing program.
+       (6) Deadline.--
+       (A) In general.--If an existing settlement of a coal 
+     preference right lease application has not been implemented 
+     as of the date of enactment of this Act, not later than 180 
+     days after that date of enactment, the Secretary shall 
+     complete the bidding rights valuation process in accordance 
+     with the terms of the settlement.
+       (B) Date of valuation.--For purposes of the valuation 
+     process under subparagraph (A), the market price of coal 
+     shall be determined as of the date of the settlement.
+       (b) Certain Land Selections of the Navajo Nation.--
+       (1) Cancellation of certain selections.--The land 
+     selections made by the Navajo Nation pursuant to Public Law 
+     93-531 (commonly known as the ``Navajo-Hopi Land Settlement 
+     Act of 1974'') (25 U.S.C. 640d et seq.) that are depicted on 
+     the map entitled ``Navajo-Hopi Land Settlement Act Selected 
+     Lands'' and dated April 2, 2015, are cancelled.
+       (2) Authorization for new selection.--
+       (A) In general.--Subject to subparagraphs (B), (C), and (D) 
+     and paragraph (3), the Navajo Nation may make new land 
+     selections in accordance with the Act referred to in 
+     paragraph (1) to replace the land selections cancelled under 
+     that paragraph.
+       (B) Acreage cap.--The total acreage of land selected under 
+     subparagraph (A) shall not exceed 15,000 acres of land.
+       (C) Exclusions.--The following land shall not be eligible 
+     for selection under subparagraph (A):
+       (i) Land within a unit of the National Landscape 
+     Conservation System.
+       (ii) Land within--
+
+       (I) the Glade Run Recreation Area;
+       (II) the Fossil Forest Research Natural Area; or
+       (III) a special management area or area of critical 
+     environmental concern identified in a land use plan developed 
+     under section 202 of the Federal Land Policy and Management 
+     Act of 1976 (43 U.S.C. 1712) that is in effect on the date of 
+     enactment of this Act.
+
+       (iii) Any land subject to a lease or contract under the 
+     Mineral Leasing Act (30 U.S.C. 181 et seq.) or the Act of 
+     July 31, 1947 (commonly known as the ``Materials Act of 
+     1947'') (30 U.S.C. 601 et seq.) as of the date of the 
+     selection.
+       (iv) Land not under the jurisdiction of the Bureau of Land 
+     Management.
+
+[[Page S1172]]
+
+       (v) Land identified as ``Parcels Excluded from Selection'' 
+     on the map entitled ``Parcels excluded for selection under 
+     the San Juan County Settlement Implementation Act'' and dated 
+     December 14, 2018.
+       (D) Deadline.--Not later than 7 years after the date of 
+     enactment of this Act, the Navajo Nation shall make all 
+     selections under subparagraph (A).
+       (E) Withdrawal.--Any land selected by the Navajo Nation 
+     under subparagraph (A) shall be withdrawn from disposal, 
+     leasing, and development until the date on which the selected 
+     land is placed into trust for the Navajo Nation.
+       (3) Equal value.--
+       (A) In general.--Notwithstanding the acreage limitation in 
+     the second proviso of section 11(c) of Public Law 93-531 
+     (commonly known as the ``Navajo-Hopi Land Settlement Act of 
+     1974'') (25 U.S.C. 640d-10(c)) and subject to paragraph 
+     (2)(B), the value of the land selected under paragraph (2)(A) 
+     and the land subject to selections cancellation under 
+     paragraph (1) shall be equal, based on appraisals conducted 
+     under subparagraph (B).
+       (B) Appraisals.--
+       (i) In general.--The value of the land selected under 
+     paragraph (2)(A) and the land subject to selections cancelled 
+     under paragraph (1) shall be determined by appraisals 
+     conducted in accordance with--
+
+       (I) the Uniform Appraisal Standards for Federal Land 
+     Acquisitions; and
+       (II) the Uniform Standards of Professional Appraisal 
+     Practice.
+
+       (ii) Timing.--
+
+       (I) Land subject to selections cancelled.--Not later than 
+     18 months after the date of enactment of this Act, the 
+     appraisal under clause (i) of the land subject to selections 
+     cancelled under paragraph (1) shall be completed.
+       (II) New selections.--The appraisals under clause (i) of 
+     the land selected under paragraph (2)(A) shall be completed 
+     as the Navajo Nation finalizes those land selections.
+
+       (4) Boundary.--For purposes of this subsection and the Act 
+     referred to in paragraph (1), the present boundary of the 
+     Navajo Reservation is depicted on the map entitled ``Navajo 
+     Nation Boundary'' and dated November 16, 2015.
+       (c) Designation of Ah-shi-sle-pah Wilderness.--
+       (1) In general.--In accordance with the Wilderness Act (16 
+     U.S.C. 1131 et seq.), the approximately 7,242 acres of land 
+     as generally depicted on the map entitled ``San Juan County 
+     Wilderness Designations'' and dated April 2, 2015, is 
+     designated as wilderness and as a component of the National 
+     Wilderness Preservation System, which shall be known as the 
+     ``Ah-shi-sle-pah Wilderness'' (referred to in this subsection 
+     as the ``Wilderness'').
+       (2) Management.--
+       (A) In general.--Subject to valid existing rights, the 
+     Wilderness shall be administered by the Director of the 
+     Bureau of Land Management in accordance with this subsection 
+     and the Wilderness Act (16 U.S.C. 1131 et seq.), except that 
+     any reference in that Act to the effective date of that Act 
+     shall be considered to be a reference to the date of 
+     enactment of this Act.
+       (B) Adjacent management.--
+       (i) In general.--Congress does not intend for the 
+     designation of the Wilderness to create a protective 
+     perimeter or buffer zone around the Wilderness.
+       (ii) Nonwilderness activities.--The fact that nonwilderness 
+     activities or uses can be seen or heard from areas within the 
+     Wilderness shall not preclude the conduct of the activities 
+     or uses outside the boundary of the Wilderness.
+       (C) Incorporation of acquired land and interests in land.--
+     Any land or interest in land that is within the boundary of 
+     the Wilderness that is acquired by the United States shall--
+       (i) become part of the Wilderness; and
+       (ii) be managed in accordance with--
+
+       (I) the Wilderness Act (16 U.S.C. 1131 et seq.);
+       (II) this subsection; and
+       (III) any other applicable laws.
+
+       (D) Grazing.--Grazing of livestock in the Wilderness, where 
+     established before the date of enactment of this Act, shall 
+     be allowed to continue in accordance with--
+       (i) section 4(d)(4) of the Wilderness Act (16 U.S.C. 
+     1133(d)(4)); and
+       (ii) the guidelines set forth in the report of the 
+     Committee on Interior and Insular Affairs of the House of 
+     Representatives accompanying H.R. 5487 of the 96th Congress 
+     (H. Rept. 96-617).
+       (3) Release of wilderness study areas.--Congress finds 
+     that, for the purposes of section 603(c) of the Federal Land 
+     Policy and Management Act of 1976 (43 U.S.C. 1782(c)), the 
+     land within the Ah-shi-sle-pah Wilderness Study Area not 
+     designated as wilderness by this subsection has been 
+     adequately studied for wilderness designation and is no 
+     longer subject to section 603(c) of the Federal Land Policy 
+     and Management Act of 1976 (43 U.S.C. 1782(c)).
+       (d) Expansion of Bisti/De-Na-Zin Wilderness.--
+       (1) In general.--There is designated as wilderness and as a 
+     component of the National Wilderness Preservation System 
+     certain Federal land comprising approximately 2,250 acres, as 
+     generally depicted on the map entitled ``San Juan County 
+     Wilderness Designations'' and dated April 2, 2015, which is 
+     incorporated in and shall be considered to be a part of the 
+     Bisti/De-Na-Zin Wilderness.
+       (2) Administration.--Subject to valid existing rights, the 
+     land designated as wilderness by paragraph (1) shall be 
+     administered by the Director of the Bureau of Land Management 
+     (referred to in this subsection as the ``Director''), in 
+     accordance with--
+       (A) the Wilderness Act (16 U.S.C. 1131 et seq.), except 
+     that any reference in that Act to the effective date of that 
+     Act shall be considered to be a reference to the date of 
+     enactment of this Act; and
+       (B) the San Juan Basin Wilderness Protection Act of 1984 
+     (Public Law 98-603; 98 Stat. 3155; 110 Stat. 4211).
+       (3) Adjacent management.--
+       (A) In general.--Congress does not intend for the 
+     designation of the land as wilderness by paragraph (1) to 
+     create a protective perimeter or buffer zone around that 
+     land.
+       (B) Nonwilderness activities.--The fact that nonwilderness 
+     activities or uses can be seen or heard from areas within the 
+     land designated as wilderness by paragraph (1) shall not 
+     preclude the conduct of the activities or uses outside the 
+     boundary of that land.
+       (4) Incorporation of acquired land and interests in land.--
+     Any land or interest in land that is within the boundary of 
+     the land designated as wilderness by paragraph (1) that is 
+     acquired by the United States shall--
+       (A) become part of the Bisti/De-Na-Zin Wilderness; and
+       (B) be managed in accordance with--
+       (i) the Wilderness Act (16 U.S.C. 1131 et seq.);
+       (ii) the San Juan Basin Wilderness Protection Act of 1984 
+     (Public Law 98-603; 98 Stat. 3155; 110 Stat. 4211);
+       (iii) this subsection; and
+       (iv) any other applicable laws.
+       (5) Grazing.--Grazing of livestock in the land designated 
+     as wilderness by paragraph (1), where established before the 
+     date of enactment of this Act, shall be allowed to continue 
+     in accordance with--
+       (A) section 4(d)(4) of the Wilderness Act (16 U.S.C. 
+     1133(d)(4)); and
+       (B) the guidelines set forth in the report of the Committee 
+     on Interior and Insular Affairs of the House of 
+     Representatives accompanying H.R. 5487 of the 96th Congress 
+     (H. Rept. 96-617).
+       (e) Road Maintenance.--
+       (1) In general.--Subject to paragraph (2), the Secretary, 
+     acting through the Director of the Bureau of Indian Affairs, 
+     shall ensure that L-54 between I-40 and Alamo, New Mexico, is 
+     maintained in a condition that is safe for motorized use.
+       (2) Use of funds.--In carrying out paragraph (1), the 
+     Secretary and the Director of the Bureau of Indian Affairs 
+     may not require any Indian Tribe to use any funds--
+       (A) owned by the Indian Tribe; or
+       (B) provided to the Indian Tribe pursuant to a contract 
+     under the Indian Self-Determination and Education Assistance 
+     Act (25 U.S.C. 5304 et seq.).
+       (3) Road upgrade.--
+       (A) In general.--Nothing in this subsection requires the 
+     Secretary or any Indian Tribe to upgrade the condition of L-
+     54 as of the date of enactment of this Act.
+       (B) Written agreement.--An upgrade to L-54 may not be made 
+     without the written agreement of the Pueblo of Laguna.
+       (4) Inventory.--Nothing in this subsection requires L-54 to 
+     be placed on the National Tribal Transportation Facility 
+     Inventory.
+                                 ______
+                                 
+  SA 180. Mr. RUBIO (for himself and Mr. Scott of Florida) submitted an 
+amendment intended to be proposed to amendment SA 111 proposed by Ms. 
+Murkowski (for herself and Mr. Manchin) to the bill S. 47, to provide 
+for the management of the natural resources of the United States, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       Strike section 7003 and insert the following:
+
+     SEC. 7003. JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM.
+
+       Section 2(b) of the Strengthening Coastal Communities Act 
+     of 2018 (Public Law 115-358) is amended by adding at the end 
+     the following:
+       ``(36) The map entitled `Cape San Blas Unit P30/P30P (1 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.
+       ``(37) The map entitled `Cape San Blas Unit P30/P30P (2 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.''.
+                                 ______
+                                 
+  SA 181. Mr. BRAUN (for himself and Mr. Cornyn) submitted an amendment 
+intended to be proposed to amendment SA 111 proposed by Ms. Murkowski 
+(for herself and Mr. Manchin) to the bill S. 47, to provide for the 
+management of the natural resources of the United States, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       On page 695 of the amendment, after line 22, add the 
+     following:
+
+     SEC. 90__. REPORT ON MAINTAINING FEDERAL LAND HOLDINGS UNDER 
+                   THE JURISDICTION OF THE SECRETARY OF THE 
+                   INTERIOR.
+
+       Not later than 120 days after the date on which the 
+     President submits to Congress the budget of the United States 
+     for fiscal year 2020, the Secretary shall submit to Congress 
+     a report that describes--
+       (1) all Federal land holdings under the jurisdiction of the 
+     Secretary; and
+
+[[Page S1173]]
+
+       (2) the total cost of maintaining the Federal land holdings 
+     described under paragraph (1) for each of fiscal years 2017 
+     through 2019, including an accounting of holdings and 
+     expenditures by each Federal agency with respect to the land 
+     holdings.
+                                 ______
+                                 
+  SA 182. Mr. RUBIO (for himself and Mr. Scott of Florida) proposed an 
+amendment to amendment SA 112 proposed by Ms. Murkowski to the 
+amendment SA 111 proposed by Ms. Murkowski (for herself and Mr. 
+Manchin) to the bill S. 47, to provide for the management of the 
+natural resources of the United States, and for other purposes; as 
+follows:
+
+       At the end, add the following:
+
+     SEC. 2402A. JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM.
+
+       (a) In General.--Section 2(b) of the Strengthening Coastal 
+     Communities Act of 2018 (Public Law 115-358) is amended by 
+     adding at the end the following:
+       ``(36) The map entitled `Cape San Blas Unit P30/P30P (1 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.
+       ``(37) The map entitled `Cape San Blas Unit P30/P30P (2 of 
+     2)' and dated December 19, 2018, with respect to Unit P30 and 
+     Unit P30P.''.
+       (b) Effect.--Section 7003 shall have no force or effect.
+                                 ______
+                                 
+  SA 183. Ms. CANTWELL submitted an amendment intended to be proposed 
+to amendment SA 111 proposed by Ms. Murkowski (for herself and Mr. 
+Manchin) to the bill S. 47, to provide for the management of the 
+natural resources of the United States, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       Strike section 3002.
+                                 ______
+                                 
+  SA 184. Mr. SCHATZ (for himself, Mr. Cassidy, and Mr. Reed) submitted 
+an amendment intended to be proposed to amendment SA 111 proposed by 
+Ms. Murkowski (for herself and Mr. Manchin) to the bill S. 47, to 
+provide for the management of the natural resources of the United 
+States, and for other purposes; which was ordered to lie on the table; 
+as follows:
+
+       At the end of subtitle E of title II, add the following:
+
+     SEC. 24___. MODIFICATIONS TO THE PRESERVE AMERICA PROGRAM.
+
+       (a) Purposes.--The purposes of this section are--
+       (1) to strengthen economic development across the United 
+     States by supporting cultural heritage tourism and historic 
+     preservation activities through the Preserve America Program; 
+     and
+       (2) to encourage the Director of the National Park Service 
+     to partner with gateway communities (including Native 
+     American communities and National Heritage Areas) to leverage 
+     local cultural and historic heritage tourism assets.
+       (b) Preserve America Grant Program.--
+       (1) Establishment.--Section 311102 of title 54, United 
+     States Code, is amended--
+       (A) in subsection (d)--
+       (i) in paragraph (1), by inserting ``and the Secretary of 
+     Commerce'' after ``Council''; and
+       (ii) by adding at the end the following:
+       ``(3) Advisory role of secretary of commerce.--The 
+     Secretary of Commerce shall advise the program with respect 
+     to job creation, economic growth, and tourism policy and 
+     promotion.''; and
+       (B) by adding at the end the following:
+       ``(f) Technical Assistance.--
+       ``(1) In general.--For any fiscal year for which funds are 
+     not made available to provide grants under this section, to 
+     the extent practicable, the program shall, in lieu of the 
+     grants, provide technical assistance to the eligible entities 
+     described in subsection (a) for projects that meet the 
+     eligibility requirements described in subsection (b), as 
+     identified on the list of projects prepared by the Secretary 
+     in accordance with subsection (d).
+       ``(2) Limitation.--The Secretary may take into account the 
+     availability of staff resources at the Department of the 
+     Interior, the Council, and the Department of Commerce for 
+     purposes of determining the number of projects that are 
+     provided technical assistance under this subsection.
+       ``(3) Form.--The form of technical assistance under 
+     paragraph (1) may include technical assistance provided by--
+       ``(A) the Director, with respect to--
+       ``(i) best practices in visitor services;
+       ``(ii) the conduct of research, inventories, and surveys;
+       ``(iii) the documentation of historic resources; and
+       ``(iv) the interpretation and promotion of cultural and 
+     heritage assets;
+       ``(B) the Council, with respect to historic preservation 
+     initiatives and best practices in stewardship; and
+       ``(C) the Secretary of Commerce, with respect to economic 
+     development and job creation resources.''.
+       (2) Program metrics.--Chapter 3111 of title 54, United 
+     States Code, is amended--
+       (A) by redesignating section 311105 as section 311106; and
+       (B) by inserting after section 311104 the following:
+
+     ``Sec. 311105. Reports
+
+       ``(a) Metrics.--Not later than 180 days after the date of 
+     enactment of the Natural Resources Management Act, the 
+     Secretary, in consultation with the Council and the Secretary 
+     of Commerce, shall develop specific metrics to measure the 
+     effectiveness of the program, including--
+       ``(1) the economic impact of the program on local 
+     communities (including Native American communities and 
+     National Heritage Areas); and
+       ``(2) the effect of the program on efforts to preserve 
+     heritage resources.
+       ``(b) Grantee Report.--Not later than 2 years after the 
+     date on which a grantee receives a grant or technical 
+     assistance under this chapter, the grantee shall submit to 
+     the Secretary a report that--
+       ``(1) describes the outcome of the project that was 
+     provided a grant or technical assistance under this chapter; 
+     and
+       ``(2) based on the metrics developed under subsection (a), 
+     assesses--
+       ``(A) the accomplishments of the project; and
+       ``(B) the impact of the project on the community in which 
+     the project was carried out.
+       ``(c) Annual Reports.--The Secretary shall submit an annual 
+     report to the appropriate committees of Congress that 
+     includes data provided by grantees to demonstrate the 
+     economic impact of the program.''.
+       (3) Conforming amendment.--The table of sections for 
+     chapter 3111 of title 54, United States Code, is amended by 
+     striking the item relating to section 311105 and inserting 
+     the following:
+
+``311105. Reports.
+``311106. Authorization of appropriations.''.
+       (c) National Park Service Partnerships With Gateway 
+     Communities.--
+       (1) In general.--Subdivision 1 of division B of subtitle 
+     III of title 54, United States Code, is amended by adding at 
+     the end the following:
+
+         ``CHAPTER 3092--PARTNERSHIPS WITH GATEWAY COMMUNITIES
+
+``Sec.
+``309201. Definitions.
+``309202. Partnerships with gateway communities.
+``309203. Report.
+``309204. Authorization of appropriations.
+
+     ``Sec. 309201. Definitions
+
+       ``In this chapter:
+       ``(1) Appropriate congressional committee.--The term 
+     `appropriate congressional committee' means--
+       ``(A) the Committee on Commerce, Science, and 
+     Transportation of the Senate;
+       ``(B) the Committee on Energy and Natural Resources of the 
+     Senate;
+       ``(C) the Committee on Appropriations of the Senate;
+       ``(D) the Committee on Energy and Commerce of the House of 
+     Representatives;
+       ``(E) the Committee on Natural Resources of the House of 
+     Representatives; and
+       ``(F) the Committee on Appropriations of the House of 
+     Representatives.
+       ``(2) Gateway community.--The term `gateway community' 
+     means a community adjacent to a unit of the System, including 
+     a Native American community or a National Heritage Area.
+       ``(3) Heritage tourism.--The term `heritage tourism' has 
+     the meaning given the term in section 311101.
+
+     ``Sec. 309202. Partnerships with gateway communities
+
+       ``(a) In General.--The Secretary shall, to the extent 
+     practicable, offer to enter into partnerships with gateway 
+     communities to leverage heritage tourism assets to strengthen 
+     local economies and create jobs in the gateway communities 
+     with the goal of establishing a standardized framework for 
+     partnerships throughout the System, including through--
+       ``(1) providing financial assistance to gateway communities 
+     to support outreach and promotional efforts;
+       ``(2) providing technical assistance to gateway communities 
+     based on Service best practices in tourism development and 
+     visitor management, such as--
+       ``(A) inventorying tourism resources in the gateway 
+     community;
+       ``(B) identifying historic heritage and cultural resources;
+       ``(C) engaging collaborative partners and stakeholders;
+       ``(D) designing community outreach and participation 
+     strategies;
+       ``(E) developing concept plans for trails, parks, historic 
+     resources, and natural areas;
+       ``(F) developing sustainable tourism development frameworks 
+     for community planning; and
+       ``(G) encouraging regional strategies for tourism 
+     development and promotion; and
+       ``(3) assisting gateway communities in accessing additional 
+     Federal resources available to strengthen tourism assets and 
+     support economic development.
+       ``(b) Obtaining Financial and Technical Assistance.--The 
+     Secretary, in consultation with stakeholders of System units, 
+     shall establish a process through which States, units of 
+     local government, and Tribal governments may apply for 
+     designation as a gateway community to become eligible for 
+     financial and technical assistance made available under this 
+     section.
+       ``(c) Metrics.--The Secretary, in consultation with gateway 
+     communities, shall develop metrics to measure the impact of 
+     the financial and technical assistance provided to gateway 
+     communities under this section.
+
+[[Page S1174]]
+
+  
+
+
+     ``Sec. 309203. Report
+
+       ``Not later than 1 year after the date of enactment of this 
+     Act, the Secretary shall submit to the appropriate 
+     congressional committees a report that--
+       ``(1) describes the efforts of the Secretary to partner 
+     with gateway communities under this chapter;
+       ``(2) analyzes the results of the financial and technical 
+     assistance using the metrics developed under section 
+     309202(c); and
+       ``(3) identifies--
+       ``(A) the next steps that should be taken to improve 
+     partnerships with gateway communities; and
+       ``(B) any actions that the Secretary will take to improve 
+     the partnerships.
+
+     ``Sec. 309204. Authorization of appropriations
+
+       ``There are authorized to be appropriated such sums as are 
+     necessary to carry out this chapter.''.
+       (2) Conforming amendment.--The table of chapters for title 
+     54, United States Code, is amended by inserting after the 
+     item relating to chapter 3091 the following:
+
+  ``3092. Partnerships with gateway communities.............. 309201''.
+                                 ______
+                                 
+  SA 185. Mr. CARPER submitted an amendment intended to be proposed to 
+amendment SA 111 proposed by Ms. Murkowski (for herself and Mr. 
+Manchin) to the bill S. 47, to provide for the management of the 
+natural resources of the United States, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       Beginning on page 595 strike line 16 and all that follows 
+     through page 603, line 16.
+                                 ______
+                                 
+  SA 186. Mr. CARPER submitted an amendment intended to be proposed by 
+him to the bill S. 47, to provide for the management of the natural 
+resources of the United States, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       Beginning on page 568 strike line 9 and all that follows 
+     through page 576, line 9.
+                                 ______
+                                 
+  SA 187. Mr. LEE (for himself, Mr. Lankford, Mr. Toomey, and Mr. 
+Romney) proposed an amendment to amendment SA 112 proposed by Ms. 
+Murkowski to the amendment SA 111 proposed by Ms. Murkowski (for 
+herself and Mr. Manchin) to the bill S. 47, to provide for the 
+management of the natural resources of the United States, and for other 
+purposes; as follows:
+
+       At the appropriate place, add the following:
+
+     SEC. ___. LIMITATION ON THE EXTENSION OR ESTABLISHMENT OF 
+                   NATIONAL MONUMENTS IN THE STATE OF UTAH.
+
+       Section 320301(d) of title 54, United States Code, is 
+     amended--
+       (1) in the heading, by striking ``Wyoming'' and inserting 
+     ``the State of Wyoming or Utah''; and
+       (2) by striking ``Wyoming'' and inserting ``the State of 
+     Wyoming or Utah''.
+
+                          ____________________
