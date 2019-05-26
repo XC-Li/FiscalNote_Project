@@ -1,8 +1,9 @@
 # Stance Detection and Stance Classification
 Authors: [Xiaochi (George) Li](https://xc-li.github.io/), [Xiaodan Chen](https://github.com/chenxiaodan105)  
 Capstone project of Data Science master's program at the George Washington University  
-**Read our presentation in [presentation and report](./presentation%20and%20report)**
-![](image/project_summary.png)
+**Read our presentation in [presentation and report](./presentation%20and%20report)**  
+[**Watch Presentation on Youtube**](https://youtu.be/K4Q5sWeMpWk)
+[![Presentation on Youtube](image/project_summary.png)](https://youtu.be/K4Q5sWeMpWk)
 
 ```
 My contribution:
